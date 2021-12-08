@@ -18,19 +18,19 @@ Helsinki fullstack exercises
 <div>
 node.js structure...
 
-├── index.js
-├── app.js
-├── build
-│ └── ...
-├── controllers
-│ └── notes.js
-├── models
-│ └── note.js
-├── package-lock.json
-├── package.json
-├── utils
-│ ├── config.js
-│ ├── logger.js
-│ └── middleware.js
+<p>├── index.js</p>
+<p>├── app.js</p>
+<p>├── build</p>
+<p>│ └── ...</p>
+<p>├── controllers</p>
+<p>│ └── notes.js</p>
+<p>├── models</p>
+<p>│ └── note.js</p>
+<p>├── package-lock.json</p>
+<p>├── package.json</p>
+<p>├── utils</p>
+<p>│ ├── config.js</p>
+<p>│ ├── logger.js</p>
+<p>│ └── middleware.js</p>
 
 </div>

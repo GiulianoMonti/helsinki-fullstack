@@ -18,7 +18,7 @@ Helsinki fullstack exercises
 <div>
 node.js structure...
 
-<p>├── index.js</p>
+<h6><p>├── index.js</p>
 <p>├── app.js</p>
 <p>├── build</p>
 <p>│ └── ...</p>
@@ -31,6 +31,6 @@ node.js structure...
 <p>├── utils</p>
 <p>│ ├── config.js</p>
 <p>│ ├── logger.js</p>
-<p>│ └── middleware.js</p>
+<p>│ └── middleware.js</p></h6>
 
 </div>

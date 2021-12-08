@@ -14,3 +14,23 @@ Helsinki fullstack exercises
 <div>
 <img src ="images/phonebook.png" width="300">
 </div>
+
+<div>
+node.js structure...
+
+├── index.js
+├── app.js
+├── build
+│ └── ...
+├── controllers
+│ └── notes.js
+├── models
+│ └── note.js
+├── package-lock.json
+├── package.json
+├── utils
+│ ├── config.js
+│ ├── logger.js
+│ └── middleware.js
+
+</div>

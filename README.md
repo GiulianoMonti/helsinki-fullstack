@@ -2,23 +2,15 @@ Helsinki fullstack exercises
 
 <strong>countries</strong>
 
-<div>
 <img src ="images/countries0.png" width="300">
-</div>
-<div>
-
-</div>
 
 <strong>phonebook</strong>
 
-<div>
 <img src ="images/phonebook.png" width="300">
-</div>
 
-<div>
 node.js structure...
 
-<h6><p>├── index.js</p>
+<h4><p>├── index.js</p>
 <p>├── app.js</p>
 <p>├── build</p>
 <p>│ └── ...</p>
@@ -31,6 +23,10 @@ node.js structure...
 <p>├── utils</p>
 <p>│ ├── config.js</p>
 <p>│ ├── logger.js</p>
-<p>│ └── middleware.js</p></h6>
+<p>│ └── middleware.js</p></h4>
 
+4.15
+
+<div>
+<img src ="images/bcryptjs.png" width="300">
 </div>
